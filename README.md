@@ -33,6 +33,7 @@
 ## Conclusions
 - Outcome from Numerical Filed Anlaysis
   - int_rate (Interest Rate)indicates that Loans with higher int_rate have more risk of getting Defaulted
+  - dti Debt to Income Ratio indicates that higher dti ratio are at higher risk of getting Defaulted
   - annual_inc  (Annual Income) even though the correlation is not very prominent but still lower annual_inc have higher risk of getting Defaulted
   - loan_amt (Loan Amount) even though the correlation is not very prominent but still higher loan_amt have higher risk of getting Defaulted
 
