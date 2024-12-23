@@ -11,11 +11,11 @@
 
 ## General Information
 - Problem Statement
-      &nbsp;&nbsp;&nbsp;&nbsp;The consumer finance company faces a critical challenge in making loan approval decisions that minimize financial risks. When an applicant applies for a loan, the company needs to assess whether the applicant is likely to repay the loan. Approving loans to applicants who are likely to default results in significant financial losses, while rejecting loans from creditworthy applicants means missed business opportunities.
-      &nbsp;&nbsp;&nbsp;&nbsp;The primary concern for the company is identifying "risky" applicants—those who are most likely to default. These defaulters cause the largest amount of credit loss. To address this, the company aims to analyze past loan data to identify patterns that predict whether an applicant is likely to default. By uncovering these patterns, the company can take proactive measures, such as denying loans to high-risk applicants, adjusting loan amounts, or charging higher interest rates. This data-driven approach will help the company reduce credit loss and better manage its loan portfolio, ensuring financial stability.
+    -  &nbsp;&nbsp;&nbsp;&nbsp;The consumer finance company faces a critical challenge in making loan approval decisions that minimize financial risks. When an applicant applies for a loan, the company needs to assess whether the applicant is likely to repay the loan. Approving loans to applicants who are likely to default results in significant financial losses, while rejecting loans from creditworthy applicants means missed business opportunities.
+    -  &nbsp;&nbsp;&nbsp;&nbsp;The primary concern for the company is identifying "risky" applicants—those who are most likely to default. These defaulters cause the largest amount of credit loss. To address this, the company aims to analyze past loan data to identify patterns that predict whether an applicant is likely to default. By uncovering these patterns, the company can take proactive measures, such as denying loans to high-risk applicants, adjusting loan amounts, or charging higher interest rates. This data-driven approach will help the company reduce credit loss and better manage its loan portfolio, ensuring financial stability.
 
 - Data Set
-     Loan Data Set was considered which has all the attributes of the Loan provided along with Loan Status 
+    - Loan Data Set was considered which has all the attributes of the Loan provided along with Loan Status 
 	 
 - Approach for analysis
 1. Data Understanding and Cleaning	
