@@ -1,2 +1,1 @@
-# Project Name
-Please Refer to Master Branch as this is adhoc Branch for Dvelopment activities
+# Please Refer to Master Branch as this is adhoc Branch for Development activities
